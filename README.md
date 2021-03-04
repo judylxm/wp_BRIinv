@@ -25,7 +25,7 @@ The trade cost data were collected from the World Bank UNESCAP Trade Costs Datab
 
   Since I have to deal with millions of data, I base my database on MySQL5.8 to speed up the preprocessing. The structure of the database is as followed.
 
-![Untitled Diagram](Untitled Diagram.png)
+![Untitled Diagram](https://github.com/judylxm/wp_BRIinv/blob/main/Untitled%20Diagram.png)
 
 4. readExcelToSQL.py,readExcelToSQL2.py and readExcelToSQL3.py are the main functions that reading data from excel to SQL.
 5. readCapitalInfoToDB.py is to input every capital's GPS location into the database. I use the pycountry_convert package for geoinformation.
