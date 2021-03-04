@@ -1,4 +1,3 @@
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 # Code sample
 
 ## This project is to preprocess data for the regression in the working paper: Economic Impact of Transportation Infrastructure Investment under the Belt Road Initiative  (Chen & Li, 2021).
